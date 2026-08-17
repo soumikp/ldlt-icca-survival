@@ -375,9 +375,9 @@ cat("=== SUMMARY TABLE ===\n")
 print(summary_table, row.names = FALSE)
 
 ## =========================
-## 13. Save summary (uncomment when ready)
+## 13. Save summary
 ## =========================
 
-# write.csv(summary_table, "survival_summary_table.csv", row.names = FALSE)
+write.csv(summary_table, "survival_summary_table.csv", row.names = FALSE)
 
 cat("\n=== ANALYSIS COMPLETE ===\n")
