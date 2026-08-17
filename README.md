@@ -7,6 +7,27 @@ Kaplan–Meier survival analysis code accompanying our study of **living donor l
 
 This repository contains the analysis script used to produce the survival estimates and figures reported in the manuscript, along with the resulting figures and summary tables.
 
+> **Living Donor Liver Transplant for Intrahepatic Cholangiocarcinoma**
+> A retrospective, single-center study of seven patients undergoing LDLT for unresectable but liver-confined iCCA under a transplant oncology protocol at the University of Pittsburgh Medical Center.
+
+## Authors
+
+| Author | Affiliation |
+|---|---|
+| Vrishketan Sethi | Department of Surgery, University of Pittsburgh Medical Center, Pittsburgh, PA |
+| Vikram Gunabushanam | Division of Abdominal Transplant Surgery, Department of Surgery, University of Pittsburgh Medical Center, Pittsburgh, PA |
+| Hao Liu | Division of Abdominal Transplant Surgery, Department of Surgery, Houston Methodist Hospital, Houston, TX |
+| [Soumik Purkayastha](https://github.com/soumikp) | Department of Biostatistics and Health Data Science, University of Pittsburgh School of Public Health, Pittsburgh, PA; Center for Healthcare Evaluation, Research, and Promotion, VA Pittsburgh Healthcare System, Pittsburgh, PA |
+| Elissa Bardhi | University of Pittsburgh School of Medicine, Pittsburgh, PA |
+| David Geller | Division of Surgical Oncology, Department of Surgery, University of Pittsburgh Medical Center, Pittsburgh, PA |
+| Swaytha Ganesh | Division of Gastroenterology, Department of Medicine, University of Pittsburgh Medical Center, Pittsburgh, PA |
+| Christopher Hughes | Division of Abdominal Transplant Surgery, Department of Surgery, University of Pittsburgh Medical Center, Pittsburgh, PA |
+| Abhinav Humar | Division of Abdominal Transplant Surgery, Department of Surgery, University of Pittsburgh Medical Center, Pittsburgh, PA |
+
+**Corresponding author:** Abhinav Humar.
+
+Questions about the statistical analysis or this code may be directed to [Soumik Purkayastha](https://github.com/soumikp) via a [GitHub issue](https://github.com/soumikp/ldlt-icca-survival/issues).
+
 ## Contents
 
 ```
