@@ -1,0 +1,13 @@
+## Patient-level data — never commit
+KM_data.csv
+*_data.csv
+data/
+
+## R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+## macOS
+.DS_Store
